@@ -127,7 +127,7 @@ with **Bootstrap 5**, featuring separate portals for Students, Teachers & Admins
 ## 🙋‍♂️ Author
 
 **Your Name**  
-- GitHub: [@your-username](https://github.com/margi-savsani)  
+- GitHub: [@margi-savsani](https://github.com/margi-savsani)  
 
 ---
 
@@ -261,7 +261,7 @@ Click **"Load Demo"** button:
 ## 🙋‍♂️ Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/margi-savsani)
+- GitHub: [@margi-savsani](https://github.com/margi-savsani)
 
 ---
 
